@@ -10,7 +10,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 */
 {
 	"clientVersion": "1.0.1",
-	"launcherVersion": "1.0.1",
+	"launcherVersion": "1.0.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "CustomHeroOT",
-	"newClientUrl" : "https://github.com/kiki20072/ClientCustomHeroOT/releases/edit/1.0.1/ClientCustomHeroOT.zip",
+	"newClientUrl" : "https://github.com/kiki20072/ClientCustomHeroOT/releases/edit/1.0.0/ClientCustomHeroOT.zip",
 	"clientExecutable": "client.exe"
 }
